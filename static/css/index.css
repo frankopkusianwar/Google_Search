@@ -1,0 +1,18 @@
+.content{
+    text-align: center;
+}
+.img{
+    width: 40%;
+    height:30%
+}
+form input{
+    border-radius: 2em;
+    width: 60%;
+    height: 7%;
+    padding: 1em;
+    font-size: 1em;
+}
+button{
+    height: 6%;
+    width: 10%;
+}
