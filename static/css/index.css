@@ -1,0 +1,54 @@
+.content{
+    text-align: center;
+}
+header{
+    padding-bottom: 10%;
+}
+.toplinks{
+    float: right;
+}
+.toplinks a{
+    margin: 0.5em;
+    color: rgb(46, 44, 44);
+    text-decoration: none;
+}
+.img{
+    width: 40%;
+    height:30%
+}
+form input{
+    width: 60%;
+    height: 7%;
+    padding: 1em;
+    font-size: 1em;
+}
+button{
+    margin: 1em;
+    height: 6%;
+    width: 15%;
+    color: rgb(46, 44, 44);
+}
+.lang{
+    margin: 1em;
+}
+.lang a {
+    margin: 0.5em;
+}
+footer a{
+    text-decoration: none;
+    color: rgb(46, 44, 44);
+    margin: 0.5em;
+}
+.bottom{
+    padding: 0.5em;
+}
+.ug{
+    padding-top: 0.3em;
+}
+.right{
+    float: right;
+}
+footer{
+    background-color: lightgray;
+    border: 1px solid gray;
+}
