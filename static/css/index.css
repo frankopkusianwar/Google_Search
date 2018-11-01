@@ -1,14 +1,22 @@
+.body{
+    display: flex;
+    flex-direction: column; 
+}
 .content{
     text-align: center;
 }
 header{
     padding-bottom: 10%;
 }
+header p a{
+    margin:0.5em;
+    text-decoration: none;
+    color:  rgb(46, 44, 44);
+}
 .toplinks{
     float: right;
 }
-.toplinks a{
-    margin: 0.5em;
+.toplinks a{ 
     color: rgb(46, 44, 44);
     text-decoration: none;
 }
@@ -24,8 +32,6 @@ form input{
 }
 button{
     margin: 1em;
-    height: 6%;
-    width: 15%;
     color: rgb(46, 44, 44);
 }
 .lang{
@@ -33,6 +39,7 @@ button{
 }
 .lang a {
     margin: 0.5em;
+    text-decoration: none;
 }
 footer a{
     text-decoration: none;
