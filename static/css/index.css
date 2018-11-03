@@ -13,6 +13,7 @@ header p a{
     text-decoration: none;
     color:  rgb(46, 44, 44);
 }
+
 .toplinks{
     float: right;
 }
@@ -22,7 +23,7 @@ header p a{
 }
 .img{
     width: 40%;
-    height:30%
+    height:30%;
 }
 form input{
     width: 60%;
@@ -57,5 +58,4 @@ footer a{
 }
 footer{
     background-color: lightgray;
-    border: 1px solid gray;
 }
