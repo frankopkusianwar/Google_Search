@@ -8,19 +8,17 @@ A simple google serach page clone designed in HTML5 and CSS3 to showcase how htm
 
 - View google search page clone
 
-## Home Page
-![screenshot]()
-
-## Details Page
-![screenshot]()
+## GOOGLE Page
+![screenshot](./google.PNG)
 
 ## Built With
 
-- React-Redux
+- HTML5
+- CSS3
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://frankopkusianwar.github.io/Google_Search/)
 
 ## Getting Started
 
@@ -34,11 +32,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Instructions
 
-- git clone 
+- git clone https://github.com/frankopkusianwar/Google_Search/
 
 ### Usage
 
-- Now you can use the index.html app
+- Now you can open the index.html file to view the page in browser
 
 ## Author
 
